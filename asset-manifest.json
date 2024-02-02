@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2a14db40.css",
-    "main.js": "/static/js/main.840af3d1.js",
+    "main.css": "/static/css/main.53b764af.css",
+    "main.js": "/static/js/main.95863d69.js",
     "static/js/787.7b6df1ed.chunk.js": "/static/js/787.7b6df1ed.chunk.js",
     "static/media/production_id_4004214 (1080p).mp4": "/static/media/production_id_4004214 (1080p).b59d3f61bf2e4e6cb173.mp4",
     "static/media/production-id-4004214-1080p.mp4": "/static/media/production-id-4004214-1080p.8b66bd4be7a76e862a67.mp4",
@@ -19,10 +19,12 @@
     "static/media/BG (1).png": "/static/media/BG (1).f41437cba926061fb223.png",
     "static/media/Rectangle 256.png": "/static/media/Rectangle 256.a7ef1985c944435c728b.png",
     "static/media/Rectangle 50.png": "/static/media/Rectangle 50.0130a2229fd79117bef1.png",
+    "static/media/suvarna ujjwal saving plan image.jpg": "/static/media/suvarna ujjwal saving plan image.a564fbebddde047fc6d1.jpg",
     "static/media/image 21.png": "/static/media/image 21.286091b091d33497d0b4.png",
     "static/media/Rectangle 51.png": "/static/media/Rectangle 51.cebae9032e4a1d7170ee.png",
     "static/media/BG1.png": "/static/media/BG1.d4fc8ff9fc1f17e31fa7.png",
     "static/media/image 14.png": "/static/media/image 14.cafc48a1ead9982dbabf.png",
+    "static/media/suvarna jyoti saving plan image.jpg": "/static/media/suvarna jyoti saving plan image.d82969df8f2385e74d3e.jpg",
     "static/media/image 181.png": "/static/media/image 181.9f9b602708e16971d291.png",
     "static/media/BG (2).png": "/static/media/BG (2).0b62bebfd87b4e05774f.png",
     "static/media/image 24.png": "/static/media/image 24.31221a80972100eb9da9.png",
@@ -76,12 +78,12 @@
     "static/media/Group 3651.png": "/static/media/Group 3651.fdb8d3ee9351b643da76.png",
     "static/media/img  in box.png": "/static/media/img  in box.061432daf5a1d5539e84.png",
     "index.html": "/index.html",
-    "main.2a14db40.css.map": "/static/css/main.2a14db40.css.map",
-    "main.840af3d1.js.map": "/static/js/main.840af3d1.js.map",
+    "main.53b764af.css.map": "/static/css/main.53b764af.css.map",
+    "main.95863d69.js.map": "/static/js/main.95863d69.js.map",
     "787.7b6df1ed.chunk.js.map": "/static/js/787.7b6df1ed.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a14db40.css",
-    "static/js/main.840af3d1.js"
+    "static/css/main.53b764af.css",
+    "static/js/main.95863d69.js"
   ]
 }
